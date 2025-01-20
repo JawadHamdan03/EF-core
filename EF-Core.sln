@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF Lec1", "EF Lec1\EF Lec1.csproj", "{346B4DF6-13E8-4280-8AAE-B5DDF49C47CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF day 1", "EF Lec1\EF day 1.csproj", "{346B4DF6-13E8-4280-8AAE-B5DDF49C47CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
