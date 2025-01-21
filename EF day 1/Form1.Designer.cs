@@ -178,7 +178,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1175, 526);
+            ClientSize = new Size(1027, 526);
             Controls.Add(label5);
             Controls.Add(DepComboBox);
             Controls.Add(AddStuButton);
